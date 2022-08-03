@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Logseq
+Comment=Logseq
+Exec=/home/mbuchmoyer/.bin/logseq/logseq
+Icon=/home/mbuchmoyer/.bin/logseq/logseq.png
+Type=Application
+Categories=Media

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=UHK-agent
+Comment=UHK-agent
+Exec=/home/mbuchmoyer/.bin/uhk-agent/UHK.Agent-1.5.17-linux-x86_64.AppImage
+Icon=/home/mbuchmoyer/.bin/uhk-agent/agent-app-icon.png
+Type=Application
+Categories=Media
